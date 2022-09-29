@@ -1,0 +1,13 @@
+This is an example of upgradeablle proxy whichis transparent upgradeable proxy
+
+contract is deployed on goerli testnet and address is 0x2858d59E101899C292eD0EF1Aa0e1dea682e771A
+
+Verifying implementation: 0x49CaaCcc7bFb2Fec8752dc213734065De3353090
+Nothing to compile
+Implementation 0x49CaaCcc7bFb2Fec8752dc213734065De3353090 already verified.
+Verifying proxy: 0x2858d59E101899C292eD0EF1Aa0e1dea682e771A
+Contract at 0x2858d59E101899C292eD0EF1Aa0e1dea682e771A already verified.
+Linking proxy 0x2858d59E101899C292eD0EF1Aa0e1dea682e771A with implementation
+Successfully linked proxy to implementation.
+Verifying proxy admin: 0xDD57DdF3b087Ec617827ab623ce35fAb041579A2
+Contract at 0xDD57DdF3b087Ec617827ab623ce35fAb041579A2 already verified.
